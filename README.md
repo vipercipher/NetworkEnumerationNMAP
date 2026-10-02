@@ -10,7 +10,7 @@ Notes and commands for enumerating hosts, ports and services with Nmap.
     - [Saving the Outputs](SavingTheOutputs.md)
     - [Service Enumeration](ServiceEnumeration.md)
     - [Using NMAP Scripts](NmapScripts.md)
-- [Typical Workflow and Quick Reference](Workflow.md)
+    - [Typical Workflow and Quick Reference](Workflow.md)
 
 ## Setup
 
